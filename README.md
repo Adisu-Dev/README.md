@@ -14,7 +14,7 @@ Logic: Implements robust error handling to prevent over-drawing and invalid inpu
 A comprehensive tool for academic performance tracking.
 Automated Grading: Converts numerical scores into academic grades (A, B, C, etc.) using precise logical scales.
 Performance Analysis: Calculates GPA and categorizes student standing (Excellent, Good, Poor).
-Dual Implementation:** Features both a Python script for quick logic and a SQL Scalar Function for database integration.
+Dual Implementation: Features both a Python script for quick logic and a SQL Scalar Function for database integration.
 
  3. Department Placement Database (SQL Server)
 A relational database schema designed for university department placements.
