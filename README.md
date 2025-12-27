@@ -48,7 +48,7 @@ A web app that fetches live weather data from global cities.
 ---
 
  🤝 Connect with Me
- 📧 Email: [Your Email Here]
+ 📧 Email: [adisudereje3@gmail.com]
  💼 LinkedIn: [Your Profile Link Here]
 
 ---
